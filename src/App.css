@@ -1,0 +1,14 @@
+.user-active-inactive {
+    width: 10px;
+    height: 10px;
+}
+.active {
+    background-color: green;
+}
+.inactive {
+    background-color: red;
+}
+.status-wrapper {
+    right: 10px;
+    top: 10px;
+}
